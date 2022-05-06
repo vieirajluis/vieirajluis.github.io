@@ -5,12 +5,10 @@ entries:
     appVersion: "1.0"
     created: "2022-05-06T08:45:03.778863-04:00"
     dependencies:
-    - condition: postgresql.enabled
-      name: postgresql
+    - name: postgresql
       repository: https://charts.bitnami.com/bitnami
       version: 11.1.22
-    - condition: redis.enabled
-      name: redis
+    - name: redis
       repository: https://charts.bitnami.com/bitnami
       version: 16.3.1
     description: Apache Superset is a modern, enterprise-ready business intelligence
