@@ -15,9 +15,9 @@ entries:
       web application
     digest: a3c2489a1eaf013ae4ab74ae0d4300a0442d4ad21d86163cb1014e74817a4c8b
     maintainers:
-    - email: craig@craigrueda.com
-      name: craig-rueda
-      url: https://github.com/craig-rueda
+    - email: joaolsvieira@gmail.com
+      name: vieirajluis
+      url: https://vieirajluis.github.io
     name: superset
     urls:
     - https://vieirajluis.github.io/superset-charts/superset-0.6.1.tgz
